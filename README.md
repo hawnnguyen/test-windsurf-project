@@ -96,4 +96,4 @@ Key files:
 - `src/test/java/com/example/graphqlhello/controller/HelloControllerTest.java` - Controller tests
 
 
-[def]: docs/graphiql-interface.png
+[def]: docs/graphiql-interface-test.png
