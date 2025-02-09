@@ -15,6 +15,12 @@ You can build the application using Maven:
 mvn clean install
 ```
 
+## Build the project
+
+```bash
+mvn package
+```
+
 ## Running the Application
 
 To start the application:
