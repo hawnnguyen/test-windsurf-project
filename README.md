@@ -72,6 +72,17 @@ Expected response:
 }
 ```
 
+### GraphiQL Interface Screenshot
+
+Here's how the GraphiQL interface looks with the query and its response:
+
+![GraphiQL Interface](docs/graphiql-interface.png)
+
+The interface provides:
+- Left panel: GraphQL query editor
+- Center: Execute query button and tools
+- Right panel: Query results in JSON format
+
 ## Development
 
 The application uses:
