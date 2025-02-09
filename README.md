@@ -74,9 +74,9 @@ Expected response:
 
 ### GraphiQL Interface Screenshot
 
-Here's how the GraphiQL interface looks with the query and its response:
+Here's how the GraphiQL interface looks with the query and its from the example above response:
 
-![GraphiQL Interface](docs/graphiql-interface.png)
+![GraphiQL Interface][def]
 
 The interface provides:
 - Left panel: GraphQL query editor
@@ -94,3 +94,6 @@ Key files:
 - `src/main/resources/graphql/schema.graphqls` - GraphQL schema definition
 - `src/main/java/com/example/graphqlhello/controller/HelloController.java` - GraphQL resolver
 - `src/test/java/com/example/graphqlhello/controller/HelloControllerTest.java` - Controller tests
+
+
+[def]: docs/graphiql-interface.png
