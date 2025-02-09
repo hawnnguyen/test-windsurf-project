@@ -1,6 +1,6 @@
 # Spring Boot GraphQL Hello World
 
-This is a simple Spring Boot application that demonstrates GraphQL integration.
+This is a simple Spring Boot application that demonstrates GraphQL integration by HawnSolo using Windsurf Codieum 
 
 ## Prerequisites
 
